@@ -24,10 +24,12 @@
   },
   "homepage": "https://github.com/wilmansirit/sesiones-cookies#readme",
   "dependencies": {
+    "bcrypt": "^3.0.6",
     "connect-mongo": "^2.0.3",
     "dotenv": "^7.0.0",
     "express": "^4.16.4",
     "express-mysql-session": "^2.1.0",
-    "express-session": "^1.16.1"
+    "express-session": "^1.16.1",
+    "mongoose": "^5.5.4"
   }
 }
